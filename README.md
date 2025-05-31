@@ -1,1 +1,1 @@
-# Explorando o MidiaPipe
+# Explorando o MidiaPipe e cv2
